@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body{
+     background-color: black;
+}
+
+.navbar {
+  width: 100%;
+  min-height: 30px;
+  margin: auto;
+  background-color: black;
+}
+
+.nav-con {
+  max-width: 1240px;
+  height: 100%;
+  margin: auto;
+  padding: 8px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav-con ul {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.body {
+  width: 100%;
+  min-height: 200px;
+  margin: auto;
+  background-color: black;
+}
+
+.body-con {
+  max-width: 1240px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: start;
+}
+
+.left {
+  width: 300px;
+  height: 1600px;
+  border-right: 1px solid #ffffff40;
+}
+
+.arrow {
+  width: 100%;
+  margin-bottom: 14px;
+}
+
+.img {
+  width: 100%;
+ 
+}
+
+.img img {
+  display: block;
+  margin: 0 auto 8px;
+}
+
+.img h5 {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 8px;
+}
+
+.img button {
+  padding: 6px 8px 6px 8px;
+  gap: 10px;
+  border-radius: 8px;
+  background-color: #ffffff1a;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
+
+.left hr {
+  width: 100%;
+  border: 1px solid #ffffff40;
+  margin-bottom: 14px;
+}
+
+.link {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 15px;
+  margin-bottom: 50px;
+}
+
+.right {
+  padding: 32px;
+}
+
+.right h1 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.right hr {
+  width: 112px;
+  height: 8px;
+  border-radius: 10px;
+  background: #39965f;
+  border: none;
+  margin-bottom: 25px;
+}
+
+.right p {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: #ffffffb2;
+  margin-bottom: 24px;
+}
+
+.right button {
+  width: 181px;
+  height: 43px;
+  padding: 8px 44px 8px 44px;
+  border-radius: 8px;
+  background: #33744e;
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: center;
+  color: #fff;
+  margin-bottom: 65px;
+}
+
+.web1{
+     margin-bottom: 64px;
+}
+
+.web2{
+     margin-bottom: 20px;
+}
