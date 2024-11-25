@@ -1,2 +1,2 @@
-# 2-loyiha
-2-loyiha
+# Portfolio
+men haqimda
